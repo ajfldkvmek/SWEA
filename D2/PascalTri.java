@@ -1,5 +1,7 @@
 package D2;
 
+//swea2005 파스칼의 삼각형
+
 import java.util.Scanner;
 public class PascalTri {
 
