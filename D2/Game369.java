@@ -1,5 +1,8 @@
 package D2;
 import java.util.Scanner;
+
+//swea 1926
+
 public class Game369 {
 
     public static void g369() {
