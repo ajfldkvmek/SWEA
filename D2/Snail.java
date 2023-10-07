@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Snail {
     public static void snail(){
         Scanner sc = new Scanner(System.in);
-        //달팽이 배열
+        //swea1954 달팽이 배열
 
         int T = sc.nextInt();
         int[] round = new int[T];
